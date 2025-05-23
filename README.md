@@ -12,10 +12,12 @@ Nebulosas:
   - NGC 6302
   - M57
   - M42
+    
 Galaxias:
   - NGC 1300
   - NGC 5194
   - NGC 4038
+    
 Cúmulo:
   - M15
   
