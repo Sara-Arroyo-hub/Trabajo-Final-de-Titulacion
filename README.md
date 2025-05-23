@@ -7,6 +7,7 @@ Este repositorio incluye tres notebooks interactivos que contienen el código ba
 Los notebooks están disponibles en la carpeta `CODE_TFT/`.
 
 Además, se incluyen las imágenes de resultados que no fueron incluidas en el documento del Trabajo Final de Titulación:
+
 Nebulosas:
   - NGC 6302
   - M57
