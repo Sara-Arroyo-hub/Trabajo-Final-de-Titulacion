@@ -8,16 +8,16 @@ Los notebooks están disponibles en la carpeta `CODE_TFT/`.
 
 Además, se incluyen las imágenes de resultados que no fueron incluidas en el documento del Trabajo Final de Titulación:
 
-Nebulosas:
++ Nebulosas:
   - NGC 6302
   - M57
   - M42
     
-Galaxias:
++ Galaxias:
   - NGC 1300
   - NGC 5194
   - NGC 4038
     
-Cúmulo:
++ Cúmulo:
   - M15
   
